@@ -1,0 +1,9 @@
+component: catalogue
+appVersion: 2.0.1
+
+service:
+  type: ClusterIP
+  targetPort: 8080
+
+
+
