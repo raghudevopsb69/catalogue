@@ -8,3 +8,8 @@ service:
 
 
 initcontainer: true
+
+resources:
+  memory: "200Mi"
+  cpu: "200m"
+
